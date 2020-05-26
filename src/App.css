@@ -370,17 +370,6 @@ ul {
   height: inherit;
 }
 
-@media only screen and (max-height: 800px) {
-  .section-div-container {
-    justify-content: start;
-    padding-top: 15vh;
-  }
-
-  .skills-container {
-    padding-top: 5vh;
-  }
-}
-
 .skill-summary-background {
   position: absolute;
   background-image: url("/shutterstock_666668977.jpg");
