@@ -1,0 +1,80 @@
+{
+    "Name": "Eric James",
+    "Address": "509 Sabal Lake Dr. Apt 101, Longwood FL 32779",
+    "Phone": "321-626-3867",
+    "Education": {
+        "University": "University of Central Florida",
+        "GraduationDate": "December 2017",
+        "Degree": "Bachelor of Science in Computer Engineering" 
+    },
+    "Experience": [{
+        "Employer": "Sigma Sourcing, LLC",
+        "Role": "Web Developer",
+        "DoE": {
+            "Start": "May 2017",
+            "End": "Present"
+        },
+        "Tasks": [
+            {
+                "MainTask": "Managed UI/UX for ASP.NET based web application with 100+ active users.",
+                "SubTasks": [],
+                "id": 1
+            },
+            {
+                "MainTask": "Combined multiple stylesheets into a dynamic CSS file using ASP.NET Razor pages.",
+                "SubTasks": [],
+                "id": 2
+            },
+            {
+                "MainTask": "Created full-stack jQuery widget to streamline client's vendor invoice processing.",
+                "SubTasks": [
+                    "Developed visualization capability to display server validation information to end user more efficiently and effectively."
+                ],
+                "id": 3
+            },
+            {
+                "MainTask": "Managed and updated use of open-source JavaScript frameworks.",
+                "SubTasks": [],
+                "id": 4
+            },
+            {
+                "MainTask": "Contributed to improvements to company and team SDLC.",
+                "SubTasks": [],
+                "id": 5
+            },
+            {
+                "MainTask": "Created C# classes and Razor pages for users to generate PDF reports and filter data.",
+                "SubTasks": [],
+                "id": 6
+            },
+            {
+                "MainTask": "Created responsive and user customizable email templates using ASP.NET Razor pages.",
+                "SubTasks": [],
+                "id": 7
+            }
+
+        ]
+    }],
+    "Skills": {
+        "Programming Languages": [
+            "jQuery", 
+            "JavaScript", 
+            "HTML/CSS",
+            "C#", 
+            "SQL"
+        ],
+        "Misc": [
+            "SVN",
+            "Git",
+            "ASP.NET",
+            "Windows OS",
+            "Mac OS"
+        ],
+        "Additional Skills": [
+            "Familiarity with Xamarin",
+            "Familiarity with Android development",
+            "Familiarity with Java",
+            "Experience using Adobe CC apps (PS, Premiere, After Effects)"
+        ]
+    }
+}
