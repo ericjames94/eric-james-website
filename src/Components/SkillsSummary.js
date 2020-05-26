@@ -1,7 +1,6 @@
 import React from 'react';
 import {ResumeContext} from './ResumeContext';
 import { useContext, useState } from 'react';
-import VisibilitySensor from 'react-visibility-sensor';
 
 function SkillsSummary () {
     const [resume, setResume] = useContext(ResumeContext);

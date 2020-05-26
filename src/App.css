@@ -429,15 +429,6 @@ ul {
   }
 }
 
-@media only screen and (max-width: 640px) {
-  .contact-form-background {
-    background-position-x: center;
-  }
-
-  .job-summary-background {
-  }
-}
-
 .skills-div-animate {
   animation: shrink 1s forwards;
 }
