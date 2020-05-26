@@ -383,7 +383,7 @@ ul {
 
 .skill-summary-background {
   position: absolute;
-  background-image: url("/shutterstock_666668977-min.jpg");
+  background-image: url("/shutterstock_666668977.jpg");
   background-size: cover;
   background-position-x: center;
   opacity: 0.3;
@@ -392,7 +392,7 @@ ul {
 }
 
 .job-summary-background {
-  background-image: url("/785526430-huge-min.jpg");
+  background-image: url("/785526430-huge.jpg");
   background-size: cover;
   background-position-x: center;
   opacity: 0.3;
@@ -402,7 +402,7 @@ ul {
 }
 
 .contact-form-background {
-  background-image: url("/shutterstock_407664883-min.jpg");
+  background-image: url("/shutterstock_407664883.jpg");
   background-size: cover;
   background-position-x: center;
   opacity: 0.5;
