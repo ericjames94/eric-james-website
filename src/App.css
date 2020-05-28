@@ -337,6 +337,14 @@ ul {
   cursor: pointer;
   width: 100vw;
   top: 85vh;
+
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Old versions of Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
+
 }
 
 .scoll-span > span {
@@ -375,6 +383,7 @@ ul {
   background-image: url("/shutterstock_666668977.jpg");
   background-size: cover;
   background-position-x: center;
+  background-attachment: fixed;
   opacity: 0.3;
   height: 100%;
   width: 100%;
@@ -384,6 +393,7 @@ ul {
   background-image: url("/785526430-huge.jpg");
   background-size: cover;
   background-position-x: center;
+  background-attachment: fixed;
   opacity: 0.3;
   height: 100%;
   position: absolute;
@@ -394,6 +404,7 @@ ul {
   background-image: url("/shutterstock_407664883.jpg");
   background-size: cover;
   background-position-x: center;
+  background-attachment: fixed;
   opacity: 0.5;
   height: 100%;
   position: absolute;
@@ -403,6 +414,7 @@ ul {
 .test4{
   background-image: url();
   background-size: cover;
+  background-attachment: fixed;
   opacity: 0.5;
   height: 100%;
   min-height: 100vh;
